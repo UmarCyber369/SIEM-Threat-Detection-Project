@@ -63,3 +63,5 @@ If you learning SOC then just build something
 like this. Theory is good but when real thing 
 breaks and you fix it.You will learn in 2 days more than months of theory.
 
+##Screenshots
+![screenshots 1](screenshots/01_splunk_login.png)
