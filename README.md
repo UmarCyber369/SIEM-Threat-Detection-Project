@@ -41,7 +41,7 @@ nmap -sV -192.168.7.171
 Then I tried Hydra for brute force but it kept giving this error every single time:
 
 ```
-[-] invalid reply from target smb://192.168.56.1
+[-] invalid reply from target smb://10.174.136.179
 ```
 
 Hydra never worked on Windows SMB so i just wrote Python script instead:
