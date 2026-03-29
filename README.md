@@ -65,3 +65,12 @@ breaks and you fix it.You will learn in 2 days more than months of theory.
 
 ##Screenshots
 ![screenshots 1](screenshots/01_splunk_login.png.png)
+![screenshots 2](screenshots/02_splunk_dashboard.png.png)
+![screenshots 3](screenshots/03_network_connectivit_ping.png.png)
+![screenshots 4](screenshots/04_Port_scan.png.png)
+![screenshots 5](screenshots/05_python_code_script.png.png)
+![screenshots 6](screenshots/06_brute_force_attack.png.png)
+![screenshots 7](screenshots/07_failed_login_detected.png.png)
+![screenshots 8](screenshots/08_Attacker_ip_deail.png.png)
+![screenshots 9](screenshots/09_Top_attacker_ip.png.png)
+![screenshots 10](screenshots/10_Triggered_alert.png.png)
